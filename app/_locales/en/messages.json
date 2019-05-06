@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "salvageo",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "salvageo",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Redirect webpages on terminated hosting services to the wayback machine",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "salvageo",
+    "description": "The title of the browser action button"
+  }
+}
